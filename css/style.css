@@ -1,0 +1,14 @@
+.panda-bg-cal{
+    background-color: #feeae9;
+}
+.button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    padding: 9px 25px;
+    width: 160px;
+    border-radius: 10px;
+   
+}
+.subscribe-bg{
+    background-color:#feeae9 ;
+    padding: 20px;
+}
